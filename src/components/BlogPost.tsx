@@ -17,37 +17,33 @@ interface BlogPostData {
 const blogPostsData: BlogPostData[] = [
   {
     id: 1,
-    title: "Real Madrid's Historic 15th Champions League Victory",
-    excerpt: "Reliving the magical journey to our record-breaking European triumph and what it means for the future of Los Blancos.",
+    title: "Real Madrid's 700th Champions League Victory",
+    excerpt: "Positive Start for Real Madrid in the Champions League Against Olympique Marseille.",
     content: `
-      <p>The Santiago Bernabéu erupted in pure ecstasy as the final whistle blew, confirming what every Madridista had dreamed of – our beloved Real Madrid had claimed their 15th Champions League trophy, extending their unparalleled record in European football's most prestigious competition.</p>
+      <p>The first 20 minutes of Real Madrid, was the best Real Madrid i have seen in recent times. With high pressing traps executed to perfection
+      and very positive with the ball, always looking for a forward pass and trying to take on the defenders, it was a pleasure. Almost didnt recognise this team.</p>
       
-      <p>This victory wasn't just another trophy in our illustrious cabinet; it was a testament to the enduring spirit, the never-say-die attitude, and the magical aura that surrounds this great club. From the group stages to the final, Los Blancos displayed the kind of football that has made them legends.</p>
+      <p>But the problem began after 20 mins, when we started losing the ball too easily, and left too many gaps for opponent to exploit. It was a downhill after that, until Vini and brahim came on in 70th Min.
+      Lets dive into individual performances</p>
       
-      <h3>The Journey to Glory</h3>
-      <p>The path to the final was anything but easy. We faced formidable opponents who tested our resolve at every turn. The quarter-final against Manchester City showcased our ability to perform under pressure, with Benzema's hat-trick reminding the world why he deserved the Ballon d'Or.</p>
+      <h3>Kylian Mbappe : 8 / 10</h3>
+      <p>Really looked sharp in this game, did everything right, was unlucky to miss a couple of chances. Looks like a Balon'D'Or season to me. What a turn around from previous season.</p>
       
-      <p>The semi-final against Chelsea was a masterclass in tactical discipline and individual brilliance. Modrić, at 37, continued to defy age and expectations, orchestrating play with the precision of a master conductor leading a symphony.</p>
+
+      <h3>Franco : 8 / 10</h3>
+      <p>This is a player who has impressed me the most. Plays for the badge, Madrid through and through. Plays with so much passion.
+      Excellent on the ball, took some good shots which went wide, created a couple of chances. Solid Champions League Debut.</p>
       
-      <h3>The Final Performance</h3>
-      <p>In the final, we witnessed everything that makes Real Madrid special. The tactical flexibility of Ancelotti, the leadership of Benzema, the creativity of Modrić, and the defensive solidity of our backline all came together in perfect harmony.</p>
-      
-      <p>When Liverpool took the lead, there was no panic, no desperation – just the calm confidence of a team that has been in this situation countless times before. The equalizer came through a moment of pure magic, and from that point, there was only one winner.</p>
-      
-      <h3>What This Means for the Future</h3>
-      <p>This 15th Champions League title isn't just about the present; it's about setting the foundation for future success. The young players in our squad have now tasted European glory, and they understand what it means to wear the Real Madrid shirt on the biggest stage.</p>
-      
-      <p>Players like Vinícius Jr., Rodrygo, and Camavinga have shown that the future of Real Madrid is in safe hands. They've learned from the masters and are ready to carry the torch forward.</p>
-      
-      <p>As we celebrate this historic achievement, we also look ahead with excitement. The Bernabéu renovation is nearing completion, new talents are emerging from La Fábrica, and the club's commitment to excellence remains unwavering.</p>
-      
-      <p>Hala Madrid y nada más! This is just the beginning of another golden era.</p>
+       
+      <h3>Rodrygo : 4 / 10</h3>
+      <p>Was a disappointment overall. Only positive was winning the penalty kick. Nothing was falling for him. Lost the ball multiple times, couldnt click well with Mbappe, just a player who has lost himself</p>
+       
     `,
-    date: "2024-12-20",
-    author: "Madridista",
+    date: "2025-09-16",
+    author: "Shiva",
     image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=1200",
     readTime: "8 min read",
-    tags: ["Champions League", "Victory", "History", "Analysis"]
+    tags: ["Champions League", "Victory", "Analysis"]
   },
   {
     id: 2,

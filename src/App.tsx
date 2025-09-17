@@ -57,10 +57,10 @@ function HomePage() {
   const blogPosts = [
     {
       id: 1,
-      title: "Real Madrid's Historic 15th Champions League Victory",
-      excerpt: "Reliving the magical journey to our record-breaking European triumph and what it means for the future of Los Blancos.",
-      date: "2024-12-20",
-      author: "Madridista",
+      title: "Real Madrid's 700th Champions League Victory",
+      excerpt: "Positive Start for Real Madrid in the Champions League Against Olympique Marseille.",
+      date: "2025-9-16",
+      author: "Shiva",
       image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=800",
       featured: true
     },
@@ -118,6 +118,7 @@ function HomePage() {
             <div className="flex items-center space-x-3 group">
               <div className="w-12 h-12 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full flex items-center justify-center transform group-hover:scale-110 group-hover:rotate-12 transition-all duration-300">
                 <Trophy className="w-6 h-6 text-white" />
+                <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALnZgEqX_e4A6vEl4H6PcaGfJRnoxCjzRuw&s'  />
               </div>
               <span className="text-xl font-bold bg-gradient-to-r from-white to-yellow-400 bg-clip-text text-transparent">
                 Madridista Central
@@ -152,6 +153,7 @@ function HomePage() {
           <div className="hero-crest mb-8 animate-float">
             <div className="w-32 h-32 mx-auto bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full flex items-center justify-center shadow-2xl transform hover:scale-110 transition-all duration-500">
               <Trophy className="w-16 h-16 text-white animate-pulse" />
+              <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRALnZgEqX_e4A6vEl4H6PcaGfJRnoxCjzRuw&s'  />
             </div>
           </div>
           
